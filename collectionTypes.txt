@@ -1,0 +1,6 @@
+MediaManager TreeSet
+ShoppingCart ArrayList
+Stock	TreeMap
+Student HashSet
+Trending LinkedList
+VideoGame HashMap
